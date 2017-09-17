@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront using MySQL and node.js -- a command-line practice project.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzzingnat/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buzzingnat/bamazon/issues"
+  },
+  "homepage": "https://github.com/buzzingnat/bamazon#readme",
+  "dependencies": {
+    "inquirer": "3.2.3",
+    "lodash": "4.17.4",
+    "mysql": "2.14.1"
+  }
+}
